@@ -1,5 +1,5 @@
 # Implementando um CRUD de contatos com REST API
-### Nesta aula, será implementado um CRUD de contatos de usuários. Para isso, será conectado o frontend à API do MOCKAPI, cujo  Siga as orientações do exercício e implemente as features solicitadas.
+### Nesta aula, será implementado um CRUD de contatos de usuários. Para isso, será conectado o frontend à API do MOCKAPI, cujo gateway encontra-se logo abaixo. Siga as orientações do exercício e implemente as features solicitadas.
 ### O que será feito na aula
 #### Bibliotecas utilizadas - Tailwind css, Axios e Vite
 Nesta aula, aprenderemos a implementar um CRUD de contatos de usuários usando uma API REST. Para isso, usaremos a API do MOCKAPI, que fornece um gateway para testar APIs REST.<br/><hr/>
